@@ -1,0 +1,351 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.cardboydiv
+{
+    width: 65%;
+}
+.primary-nav-div
+{
+    float: left;
+    color: white;
+    font-size: 14px;
+    padding-top: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-bottom: 8px;
+}
+.prim-nav-bar
+{
+    background-color: black;
+}
+.navlistfont
+{
+
+    color: white;
+    display: block;
+
+}
+.navbardiv
+{
+    float: left;
+    margin-right: 25px;
+    margin-left: 25px;
+    margin-top: 18px;
+}
+.navlink2
+{
+list-style-type: none;
+float: left;
+margin-right: 7%;
+}
+.navlink2div
+{
+    width: 50%;
+}
+.navachrom
+{
+    color: black;
+}
+.bookbt
+{
+    background-color: rgb(203, 238, 48);
+    color: black;
+    margin-right: 0%;
+    height: 36px;
+    width: 100px;
+    border: none;
+}
+
+
+
+.banner
+{
+    margin-top: 120px;
+}
+.card1col
+{
+    margin-top: 20px;
+}
+.cardhead
+{
+    margin-top: 40px;
+}
+.card1-mainhead
+{
+    font-weight: bold;
+    font-size: 28px;
+}
+.card1-subhead
+{
+font-size: 16px;
+color: rgb(126, 126, 126);
+}
+.card1h
+{
+    height: 280px;
+}
+.card1img
+{
+    height: 200px;
+    border-radius: 6px;
+}
+.card-title
+{
+    color:rgb(65, 63, 63) ;
+}
+.card-text
+{
+    color: rgb(114, 113, 113);
+}
+
+.cardbody
+{
+    border: none;
+}
+
+ /* start card 2 section  */
+ .card2img
+ {
+     width: 100%;
+     border-radius: 4px;
+ }
+ .card2imgdiv
+ {
+     width: 33%;
+     line-height: normal;
+     display: inline-block;
+     margin-left: 3%;
+
+ }
+ .card2textdiv
+ {
+     line-height: normal;
+     width: 57%;
+     display: inline-block;
+     margin-right: 3%;
+     margin-left: 4%;
+ }
+ .card2div
+ {
+     display: inline-flex;
+     margin-top: 25px;
+     padding-top: 13px;
+     padding-bottom: 13px;
+ }
+ .card2div:hover
+ {
+     background-color: rgb(223, 221, 221);
+ }
+ .card2head
+ {
+     font-size: 18px;
+     font-weight: 500;
+ }
+ .card2text
+ {
+     font-size: 15px;
+ }
+ /* start card 2 section  */
+
+.sliderdiv
+{
+    height: 600px;
+    background-color: rgb(223, 221, 221);
+}
+.sliderbody
+{
+    margin-top: 25px;
+}
+.sliderimage
+{
+    width: 100%;
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.sliderimagerick
+{
+    width: 60%;
+    margin-top: 20%;
+    margin-left: 25%;
+}
+.slidebody
+{
+    height: 100%;
+}
+.imginfo
+{
+    padding-top: 12%;
+    padding-right: 10%;
+    padding-left: 10%;
+}
+.imghead
+{
+    font-weight: bold;
+    font-size: 28px;
+}
+.imgsubhead
+{
+font-weight: bold;
+font-size: 18px;
+}
+.imgtext
+{
+padding-top: 10px;
+}
+.imgmark
+{
+    margin: 15px;
+}
+.bookingimg
+{
+    width: 60%;
+    margin-left: 12%;
+    margin-top: 6%;
+}
+.mapdiv
+{
+    margin-top: 50px;
+    border: rgb(231, 231, 231) solid 1px;
+    /* border-top: rgb(231, 231, 231) solid 1px;
+    border-bottom: rgb(231, 231, 231) solid 1px; */
+}
+.maphead
+{
+    font-size: 34px;
+    margin-top: 120px;
+    font-weight: bold;
+    text-align: center;
+}
+.mapsubhead
+{
+    text-align: center;
+}
+.storeimg
+{
+    width: 25%;
+    margin: 2%;
+    height: 40px;
+}
+.storebox
+{
+    margin-left: 15%;
+    margin-top: 60px;
+}
+.subfootlogodiv
+{
+    float: left;
+    width: 10%;
+    margin-left: 15%;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.subfootlogo
+{
+    width: 100%;
+}
+.subfoot
+{
+    width: 60%;
+    margin-left: 5%;
+    margin-top: 30px;
+    float: left;
+    margin-bottom: 40px;
+}
+.subfoothead
+{
+    padding: left 10px;
+    font-weight: bold;
+}
+.footerlist
+{
+    list-style-type: none;
+    margin-left: 0%;
+    padding-left: 0%;
+    width: 100%;
+    font-size: 13px;
+    color: rgb(206, 203, 203);
+}
+.footerhead
+{
+    color: white;
+    padding-top: 30px;
+}
+.footerhead1
+{
+    color: white;
+    padding-top: 10px;
+}
+.footersubhead
+{
+    color: white;
+}
+footer
+{
+    background-color: rgb(49, 48, 48);
+}
+footer li
+{
+    margin-top: 10px;
+}
+.social-link
+{
+    color: white;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.social-logo
+{
+    margin-top: 10px;
+    margin-left: 10%;
+}
+.country-logo
+{
+    width: 50%;
+}
+.country-list
+{
+    margin-left: 13%;
+    width: 60%;
+    height: 40px;
+    background-color:rgb(49, 48, 48) ;
+    color: white;
+    border: white solid 2px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+.fthr
+{
+    color: white;
+    background-color: rgb(175, 174, 174);
+}
+.ftlink
+{
+    color: rgb(206, 203, 203);
+    margin-left: 8%;
+}
+.ftlink1
+{
+    color: rgb(206, 203, 203);
+    margin-left: 6%;
+}
+footer a
+{
+    margin-left: 0%;
+    font-size: 13px;
+    color:rgb(206, 203, 203);
+}
+.copyright
+{
+    color:rgb(206, 203, 203);
+    font-size: 11px;
+    margin-left: 8%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+footer a:hover
+{
+    color: rgb(96, 204, 7);
+    text-decoration: none;
+}
